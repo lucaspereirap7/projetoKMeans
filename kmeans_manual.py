@@ -1,4 +1,3 @@
-# kmeans_manual.py
 import numpy as np
 
 class KMeansManual:
